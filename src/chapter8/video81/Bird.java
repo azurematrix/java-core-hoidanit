@@ -1,0 +1,1 @@
+package chapter8.video81;public class Bird implements Flyable, Animal {    @Override    public void doFly() {        System.out.println("Con chim bay bằng cánh");    }    @Override    public void makeSound() {        System.out.println("Cúc cu");    }}

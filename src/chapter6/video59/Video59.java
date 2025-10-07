@@ -1,0 +1,1 @@
+package chapter6.video59;public class Video59 {    public static void main(String[] args) {        Student st1 = new Student("Phạm Duy Anh", "B");        Student st2 = new Student("Nguyễn Đức Trí", "C");        st1.setName("Phạm Huệ Anh");        System.out.println("Name = " + st1.getName() + " and grade = " + st1.getGrade());    }}

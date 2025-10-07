@@ -1,0 +1,1 @@
+package chapter7.lab05;public class Video71 {    public static void main(String[] args) {        Manager hoidanit = new Manager("Sales", 32, 2000, "Phạm Duy Anh", "25");        hoidanit.introduce();        System.out.println("Lương cơ bản: " + hoidanit.calculateSalary());        System.out.println("Lương sau thưởng: " + hoidanit.calculateSalary(300));    }}

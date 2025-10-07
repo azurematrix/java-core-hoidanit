@@ -1,0 +1,1 @@
+package chapter7.video66;public class Video66 {    public static void main(String[] args) {        Car myCar = new Car("Toyota", "2022", "SUV");        myCar.printInfo();    }}

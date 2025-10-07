@@ -1,0 +1,1 @@
+package chapter7.video70;public class Video70 {    public static void main(String[] args) {        CustomerPrinter customerPrinter = new CustomerPrinter();        customerPrinter.print("Phạm Duy Anh", 25);        customerPrinter.print("Phạm Duy Anh", 25, "Hanoi");    }}

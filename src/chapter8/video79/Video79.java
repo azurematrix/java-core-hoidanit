@@ -1,0 +1,1 @@
+package chapter8.video79;public class Video79 {    public static void main(String[] args) {        Animal myDog = new Dog() {        };        myDog.makeSound();        myDog.eat();        myDog.onlyParent();    }}

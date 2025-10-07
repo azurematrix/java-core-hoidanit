@@ -1,0 +1,1 @@
+package chapter6.video58.model;public class Employee {    private String name;    int age;    protected String department;    public double salary;}

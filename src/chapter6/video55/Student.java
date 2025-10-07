@@ -1,0 +1,1 @@
+package chapter6.video55;public class Student {    String name;    int age;    //Tên của hàm tạo trùng với tên class//    public Student() {////    }    public Student(String name, int age) {        this.name = name;        this.age = age;    }    void learnJava() {        System.out.println("Run learn Java");    }}

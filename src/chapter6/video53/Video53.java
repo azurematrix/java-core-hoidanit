@@ -1,0 +1,1 @@
+package chapter6.video53;public class Video53 {    public static void main(String[] args) {        Student student1 = new Student();        student1.onThi();        double testSum = student1.sum(6, 9);        System.out.println(testSum);    }}

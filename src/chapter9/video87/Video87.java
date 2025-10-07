@@ -1,0 +1,1 @@
+package chapter9.video87;public class Video87 {    public static void main(String[] args) {//        Student st1 = new Student();////        st1.country = "THAILAND";//        System.out.println("Check country: " + st1.country);//        st1.printInfo();        Student.printInfo();    }}

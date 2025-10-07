@@ -1,0 +1,1 @@
+package chapter6.video57;public class Student {    String name;    String msv;    public Student(String name, String msv) {        this.name = name;        this.msv = msv;    }    void display() {        System.out.println(this.name + " - " + this.msv);    }}

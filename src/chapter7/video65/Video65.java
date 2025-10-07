@@ -1,0 +1,1 @@
+package chapter7.video65;public class Video65 {    public static void main(String[] args) {        Student st1 = new Student("EPU", "Phạm Duy Anh", 25);        st1.printInfo();        st1.test();    }}

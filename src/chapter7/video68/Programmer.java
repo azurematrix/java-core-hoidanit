@@ -1,0 +1,1 @@
+package chapter7.video68;import chapter7.video65.Person;public class Programmer extends Employee {    public Programmer(String name, int id, double salary) {        super(name, id, salary);    }}

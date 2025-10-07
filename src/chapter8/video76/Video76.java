@@ -1,0 +1,1 @@
+package chapter8.video76;public class Video76 {    public static void main(String[] args) {//        Animal animal = new Animal();//        Dog dog = new Dog();        Animal myDog = new Dog(); //        myDog.makeSound();//        myDog.wagTail();    }}

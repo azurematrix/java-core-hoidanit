@@ -1,0 +1,1 @@
+package chapter6.video58.test;import chapter6.video58.model.Employee;public class Video58 {    public static void main(String[] args) {        Employee employee1 = new Employee();//        employee1.name = "Phạm Duy Anh";//        employee1.age = 25;    }}

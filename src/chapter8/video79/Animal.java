@@ -1,0 +1,1 @@
+package chapter8.video79;public abstract class Animal {    abstract void makeSound();    abstract void eat();    public void onlyParent() {        System.out.println("Only Parent");    }}

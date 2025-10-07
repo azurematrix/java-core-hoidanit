@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0292b04-a429-4261-ad0e-9aa2b88af48f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-hoidanit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/video100/Video100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/video97/Video97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/video99/Video99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/Lab1Bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/Lab1Bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/Lab1Bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/BaitapExtra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Lab2Bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Video29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Video30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Video31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Video32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Video33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Video34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Video35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/Video39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/Video41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/Video42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/Video43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/Video44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/Video45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/Video46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/Video47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/lab04/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/lab04/video60/Video60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video52/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video52/Video52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video53/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video53/Video53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video54/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video54/Video54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video55/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video55/Video55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video56/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video56/Video56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video57/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video58/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video58/test/Video58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video59/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/video59/Video59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/lab05/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/lab05/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/lab05/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/lab05/Video71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video63/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video63/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video63/Video63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video64/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video64/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video64/Video64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video65/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video65/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video65/Video65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video66/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video66/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video66/Video66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video67/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video67/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video67/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video67/Video67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video68/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video68/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video68/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video68/Video68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video69/Video69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video70/CustomerPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/video70/Video70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/lab06/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/lab06/Lab06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/lab06/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/lab06/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/lab06/Trainable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video76/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video76/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video76/Video76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video78/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video78/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video78/Motorbike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video78/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video78/Video78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video79/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video79/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video79/Video79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video80/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video80/FullTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video80/PartTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video80/Video80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video81/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video81/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video81/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video81/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video81/Video81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video82/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video82/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video82/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/video82/Video82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/lab07/Lab07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/lab07/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/lab07/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/video87/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/video87/Video87.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/video88/MyRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/video88/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/video88/Video88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/video89/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/video89/Video89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/video90/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/video90/video90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/video91/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/video91/Video91.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="31AlpcOmdK5rJhPOLFh9npdn2eG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BaitapCondition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BaitapExtra.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BaitapSwitchCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab07 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab07 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab1Bai1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab1Bai2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab1Bai3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab2Bai1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab2Bai1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video100.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video32.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video33.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video35.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video39.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video43.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video44.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video45.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video47.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video52.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video53.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video54.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video55.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video56.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video59.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video60.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video63.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video64.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video65.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video66.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video67.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video68.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video69.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video71.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video76.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video78.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video79.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video80.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video81.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video82.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video87.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video88.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video89.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video91.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Video99.executor&quot;: &quot;Run&quot;,
+    &quot;Application.video90.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Video100">
+    <configuration name="Lab07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9.lab07.Lab07" />
+      <module name="java-core-hoidanit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter9.lab07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Video100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.video100.Video100" />
+      <module name="java-core-hoidanit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter10.video100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Video91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9.video91.Video91" />
+      <module name="java-core-hoidanit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter9.video91.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Video99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.video99.Video99" />
+      <module name="java-core-hoidanit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter10.video99.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="video90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9.video90.video90" />
+      <module name="java-core-hoidanit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter9.video90.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.video90" />
+        <item itemvalue="Application.Video99" />
+        <item itemvalue="Application.Video91" />
+        <item itemvalue="Application.Video100" />
+        <item itemvalue="Application.Lab07" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0292b04-a429-4261-ad0e-9aa2b88af48f" name="Changes" comment="" />
+      <created>1754974941788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754974941788</updated>
+      <workItem from="1754974942818" duration="13035000" />
+      <workItem from="1755068002201" duration="30000" />
+      <workItem from="1755068051923" duration="1527000" />
+      <workItem from="1755227720794" duration="20196000" />
+      <workItem from="1755310184751" duration="1001000" />
+      <workItem from="1755395178426" duration="7861000" />
+      <workItem from="1755449409598" duration="114000" />
+      <workItem from="1755449560302" duration="104000" />
+      <workItem from="1755491416678" duration="425000" />
+      <workItem from="1755491867927" duration="551000" />
+      <workItem from="1755492447047" duration="623000" />
+      <workItem from="1755569096665" duration="8155000" />
+      <workItem from="1755603199226" duration="143000" />
+      <workItem from="1755664385429" duration="5132000" />
+      <workItem from="1756020521026" duration="684000" />
+      <workItem from="1756022791509" duration="227000" />
+      <workItem from="1756094380390" duration="4080000" />
+      <workItem from="1756174974550" duration="21000" />
+      <workItem from="1756175016593" duration="6867000" />
+      <workItem from="1756261352839" duration="13422000" />
+      <workItem from="1756284046768" duration="4509000" />
+      <workItem from="1756712075627" duration="223000" />
+      <workItem from="1756712367909" duration="18000" />
+      <workItem from="1756712404842" duration="10310000" />
+      <workItem from="1756786487452" duration="97000" />
+      <workItem from="1756786641757" duration="19000" />
+      <workItem from="1756786972763" duration="110000" />
+      <workItem from="1756787181365" duration="496000" />
+      <workItem from="1756787764975" duration="636000" />
+      <workItem from="1756789251807" duration="223000" />
+      <workItem from="1756789495440" duration="14000" />
+      <workItem from="1756789528714" duration="450000" />
+      <workItem from="1756790185297" duration="31000" />
+      <workItem from="1756792556333" duration="36000" />
+      <workItem from="1756792616802" duration="245000" />
+      <workItem from="1756793148545" duration="717000" />
+      <workItem from="1756794035483" duration="475000" />
+      <workItem from="1756794535133" duration="3721000" />
+      <workItem from="1756801303939" duration="1147000" />
+      <workItem from="1756803040345" duration="142000" />
+      <workItem from="1756803200472" duration="69000" />
+      <workItem from="1756803287195" duration="43000" />
+      <workItem from="1756803347206" duration="32000" />
+      <workItem from="1756803404693" duration="3000" />
+      <workItem from="1756898078733" duration="287000" />
+      <workItem from="1756898406734" duration="894000" />
+      <workItem from="1756956069389" duration="28137000" />
+      <workItem from="1757036879116" duration="32401000" />
+      <workItem from="1757173265779" duration="2788000" />
+      <workItem from="1757210671606" duration="9178000" />
+      <workItem from="1757298528473" duration="582000" />
+      <workItem from="1757468781058" duration="10745000" />
+      <workItem from="1757554559454" duration="575000" />
+      <workItem from="1757640333297" duration="4488000" />
+      <workItem from="1757677432717" duration="8321000" />
+      <workItem from="1757730137879" duration="2563000" />
+      <workItem from="1757814515855" duration="7007000" />
+      <workItem from="1757898385887" duration="537000" />
+      <workItem from="1757994196562" duration="1187000" />
+      <workItem from="1758006838107" duration="752000" />
+      <workItem from="1758076609057" duration="1864000" />
+      <workItem from="1758111578684" duration="577000" />
+      <workItem from="1758117582080" duration="3688000" />
+      <workItem from="1758246356448" duration="7003000" />
+      <workItem from="1758333506818" duration="1312000" />
+      <workItem from="1758335688904" duration="7907000" />
+      <workItem from="1758507893297" duration="582000" />
+      <workItem from="1758726572063" duration="31000" />
+      <workItem from="1758886601840" duration="68000" />
+      <workItem from="1758894134827" duration="15000" />
+      <workItem from="1758944343705" duration="45000" />
+      <workItem from="1759033669743" duration="172000" />
+      <workItem from="1759112525560" duration="995000" />
+      <workItem from="1759117953365" duration="230000" />
+      <workItem from="1759118201320" duration="2720000" />
+      <workItem from="1759375781671" duration="2379000" />
+      <workItem from="1759462582646" duration="624000" />
+      <workItem from="1759463265430" duration="19000" />
+      <workItem from="1759463299051" duration="882000" />
+      <workItem from="1759806421959" duration="129000" />
+      <workItem from="1759806586569" duration="2437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

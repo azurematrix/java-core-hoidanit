@@ -1,0 +1,1 @@
+package chapter5;import java.util.Scanner;public class Video42 {    public static void main(String[] args) {        Scanner sc = new Scanner(System.in);        System.out.println("Nhập số lượng phần tử động vật: ");        int n = sc.nextInt();        String[] arr =  new String[n];        for(String item : arr){        }    }}

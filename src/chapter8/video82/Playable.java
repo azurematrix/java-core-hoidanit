@@ -1,0 +1,1 @@
+package chapter8.video82;public interface Playable {    void play(); //mặc định với interface là public abstract    void pause();}

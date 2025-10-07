@@ -1,0 +1,1 @@
+package chapter8.lab06;public interface Trainable {    void attendTraining(String topic); //public abstract    //keyword default cho phep tao ham trong interface    default void feedback() {        System.out.println("Thanks for the training session.");    }}

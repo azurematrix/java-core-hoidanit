@@ -1,0 +1,1 @@
+package chapter6.video53;public class Student {    String name;    int age;    String address;    void sleep() {        System.out.println("I'm sleeping...");    }    void  onThi() {    }    double sum(int a, int b) {        return a+b;    }}

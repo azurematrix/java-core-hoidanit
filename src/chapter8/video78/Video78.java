@@ -1,0 +1,1 @@
+package chapter8.video78;public class Video78 {    public static void main(String[] args) {        Car myCar = new Car("Toyota");        Motorbike myMotorbike = new Motorbike("Honda");        Bus myBus = new Bus("Vin");        Vehicle[] vehicles = {myCar, myMotorbike, myBus};        for(Vehicle item : vehicles){            item.start();        }    }}

@@ -1,0 +1,1 @@
+package chapter10.video99;public class Video99 {    public static int chiaHaiSo(int a, int b){        if(b == 0) {        }        return a / b;    }    public static void main(String[] args) {        System.out.println("Chia hai số a / b = " + chiaHaiSo(10, 0));    }}

@@ -1,0 +1,1 @@
+package chapter6.video56;public class Video56 {    public static void main(String[] args) {        Product product1 = new Product("Máy giặt", 50000);        Product product2 = new Product("Tivi", 40000);        product1.display();        product2.display();    }}

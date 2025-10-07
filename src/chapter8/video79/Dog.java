@@ -1,0 +1,1 @@
+package chapter8.video79;public class Dog extends Animal {    @Override    void makeSound() {        System.out.println("Gâu Gâu");    }    @Override    void eat() {        System.out.println("Gặm xương");    }}
